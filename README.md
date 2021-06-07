@@ -238,3 +238,9 @@ Knowledge Discovery and Data Mining, 2001.
 [6] Domingos P., Hulten G. Mining complex models from arbitrarily large databases in constant time, 2002.
 
 [7] https://spark.apache.org/docs/latest/structured-streaming-programming-guide.html
+
+[8] Naive Bayes and Decision Tree Classifier for Streaming Data Using HBase. Available on: https://link.springer.com/chapter/10.1007/978-981-13-3250-0_8
+
+[9] Gamma J., Sebastiao R., Rodrigues P. Issues in Evaluation of Stream Learning Algorithmns, 2009
+
+[10] [skmultiflow library]: Montiel, J., Read, J., Bifet, A., & Abdessalem, T. (2018). Scikit-multiflow: A multi-output streaming framework. The Journal of Machine Learning Research, 19(72):1−5.
